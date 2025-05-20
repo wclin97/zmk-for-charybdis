@@ -55,7 +55,7 @@
 &kp CAPS        &none   &kp GRAVE        &kp KP_NUMBER_7  &kp KP_N8         &kp KP_N9          &none         &none      &kp UP    &none      &none    &kp RIGHT_BRACKET
 &kp LEFT_SHIFT  &none   &none            &kp KP_NUMBER_4  &kp KP_NUMBER_5   &kp KP_N6          &none         &kp LEFT   &kp DOWN  &kp RIGHT  &none    &bt BT_PRV
 &kp LCTRL       &none   &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_N2         &kp KP_NUMBER_3    &bt BT_CLR    &none      &none     &none      &none    &bt BT_NXT
-                                         &kp SPACE        &kp LEFT_COMMAND  &none              &none         &kp ENTER
+                                         &kp SPACE        &kp LEFT_COMMAND  &kp MINUS          &kp EQUAL     &kp ENTER
                                                           &mkp MB1          &to 0              &kp LEFT_ALT
             >;
         };
