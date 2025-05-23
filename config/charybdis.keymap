@@ -50,12 +50,12 @@
 
         layer_1 {
             bindings = <
-&kp F1          &kp F2           &kp F3           &kp F4            &kp F5           &kp F6       &kp F7        &kp F8     &kp F9    &kp F10        &kp F11   &kp F12
-&kp CAPS        &kp GRAVE        &kp KP_NUMBER_7  &kp KP_NUMBER_8   &kp KP_NUMBER_9  &kp MINUS    &kp DELETE    &none      &kp UP    &kp BACKSPACE  &none     &kp RIGHT_BRACKET
-&kp LEFT_SHIFT  &kp A            &kp KP_NUMBER_4  &kp KP_NUMBER_5   &kp KP_NUMBER_6  &kp EQUAL    &none         &kp LEFT   &kp DOWN  &kp RIGHT      &none     &none
-&kp LCTRL       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2   &kp KP_NUMBER_3  &none        &none         &none      &none     &kp PERIOD     &kp BSLH  &kp MINUS
-                                                  &kp LEFT_COMMAND  &to 0            &kp MINUS    &kp SPACE     &kp ENTER
-                                                                    &mouse MB2 MB1   &to 2        &kp LEFT_ALT
+&kp F1          &kp F2           &kp F3           &kp F4            &kp F5           &kp F6                 &kp F7        &kp F8     &kp F9    &kp F10        &kp F11   &kp F12
+&kp CAPS        &kp GRAVE        &kp KP_NUMBER_7  &kp KP_NUMBER_8   &kp KP_NUMBER_9  &kp MINUS              &kp DELETE    &none      &kp UP    &kp BACKSPACE  &none     &kp RIGHT_BRACKET
+&kp LEFT_SHIFT  &kp A            &kp KP_NUMBER_4  &kp KP_NUMBER_5   &kp KP_NUMBER_6  &kp EQUAL              &none         &kp LEFT   &kp DOWN  &kp RIGHT      &none     &none
+&kp LCTRL       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2   &kp KP_NUMBER_3  &none                  &none         &none      &none     &kp PERIOD     &kp BSLH  &kp MINUS
+                                                  &kp LEFT_COMMAND  &to 0            &space_ MINUS SPACE    &kp SPACE     &kp ENTER
+                                                                    &mouse MB2 MB1   &to 2                  &kp LEFT_ALT
             >;
         };
 
