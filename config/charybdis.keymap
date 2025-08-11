@@ -76,7 +76,7 @@
 &kp LEFT_SHIFT  &kp A   &kp S   &kp D                    &kp F         &kp G       &kp H                  &kp J      &kp K      &kp L       &kp SEMI  &kp SQT
 &kp LCTRL       &kp Z   &kp X   &kp C                    &kp V         &kp B       &kp N                  &kp M      &kp COMMA  &kp PERIOD  &kp FSLH  &kp EQUAL
                                 &kp_kp LEFT_SHIFT SPACE  &kp LEFT_GUI  &mkp MB1    &kp_kp LEFT_ALT MINUS  &kp ENTER
-                                                         &sl_st 1 1    &mkp MB2    &to 1
+                                                         &sl_st 1 1    &mkp MB2    &kp GRAVE
             >;
         };
 
@@ -87,7 +87,7 @@
 &kp LEFT_SHIFT  &none            &kp KP_NUMBER_4  &kp KP_NUMBER_5          &kp KP_NUMBER_6  &none             &none                  &kp LEFT   &kp DOWN  &kp RIGHT      &none     &none
 &kp LCTRL       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2          &kp KP_NUMBER_3  &none             &none                  &none      &none     &kp PERIOD     &kp BSLH  &kp MINUS
                                                   &kp_kp LEFT_SHIFT SPACE  &kp LEFT_GUI     &mouse MB2 MB1    &kp_kp LEFT_ALT MINUS  &kp ENTER
-                                                                           &none            &to 2             &none
+                                                                           &to 0            &to 2             &none
             >;
         };
 
@@ -98,7 +98,7 @@
 &trans  &trans      &trans      &trans      &trans          &trans    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans      &trans      &trans      &trans          &trans    &trans  &trans  &trans  &trans  &trans  &trans
                                 &trans      &none           &trans    &none   &trans
-                                            &trans          &to 0     &to 0
+                                            &trans          &to 0     &none
             >;
         };
 
