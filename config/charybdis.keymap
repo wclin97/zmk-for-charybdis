@@ -85,9 +85,9 @@
 &kp F1          &kp F2           &kp F3           &kp F4                   &kp F5           &kp F6            &kp F7      &kp F8     &kp F9    &kp F10        &kp F11   &kp F12
 &kp CAPS        &kp GRAVE        &kp KP_NUMBER_7  &kp KP_NUMBER_8          &kp KP_NUMBER_9  &none             &kp DELETE  &none      &kp UP    &kp BACKSPACE  &none     &kp RIGHT_BRACKET
 &kp LEFT_SHIFT  &none            &kp KP_NUMBER_4  &kp KP_NUMBER_5          &kp KP_NUMBER_6  &none             &none       &kp LEFT   &kp DOWN  &kp RIGHT      &none     &none
-&kp LCTRL       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2          &kp KP_NUMBER_3  &none             &none       &none      &none     &kp PERIOD     &kp BSLH  &kp LEFT_ALT
-                                                  &kp_kp LEFT_SHIFT SPACE  &kp LEFT_GUI     &mouse MB2 MB1    &kp MINUS   &kp ENTER
-                                                                           &to 0            &to 2             &none
+&kp LCTRL       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2          &kp KP_NUMBER_3  &none             &none       &none      &none     &kp PERIOD     &kp BSLH  &none
+                                                  &kp_kp LEFT_SHIFT SPACE  &kp LEFT_GUI     &mouse MB2 MB1    &kp EQUAL   &kp ENTER
+                                                                           &to 0            &to 2             &kp MINUS
             >;
         };
 
